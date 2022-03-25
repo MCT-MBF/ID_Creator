@@ -3,7 +3,7 @@
  <ApplicationVersion>1.0.0</ApplicationVersion>
  <Checksum>true</Checksum>
  <PackageUpdate>
-  <Name>org.mittech.milink</Name>
+  <Name>tree/main/org.mittech.milink</Name>
   <RequiresAdminRights>true</RequiresAdminRights>
   <DisplayName>Milink</DisplayName>
   <Description>This is going to install Milink and setup your machine. </Description>
