@@ -1,0 +1,20 @@
+<Updates>
+ <ApplicationName>{AnyApplication}</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <PackageUpdate>
+  <Name>org.mittech.milink</Name>
+  <RequiresAdminRights>true</RequiresAdminRights>
+  <DisplayName>Milink</DisplayName>
+  <Description>This is going to install Milink and setup your machine. </Description>
+  <Version>2.7.1</Version>
+  <ReleaseDate>2021-02-20</ReleaseDate>
+  <Default>true</Default>
+  <Script>installscript.qs</Script>
+  <UpdateFile UncompressedSize="69646105" OS="Any" CompressedSize="20392151"/>
+  <DownloadableArchives>bearer.7z,iconengines.7z,imageformats.7z,platforms.7z,printsupport.7z,styles.7z,translations.7z,content.7z</DownloadableArchives>
+  <SHA1>d4f84f1a95868f00a4433d48d2a01c2e99a7037e</SHA1>
+ </PackageUpdate>
+ <SHA1>3b09acfeffc1f0ab60678d4ad2778412b9083128</SHA1>
+ <MetadataName>2022-03-15-1644_meta.7z</MetadataName>
+</Updates>
